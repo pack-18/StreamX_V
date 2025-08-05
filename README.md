@@ -1,7 +1,7 @@
 ![vega-high-resolution-logo-transparent](https://github.com/Zenda-Cross/vega-app/assets/143804558/b2eb446f-8e7f-4800-81e1-3320c82f33de)
 
-# Vega-App
-Android app for streaming media.
+# App Name
+
 ### Features
 - Steam and Download Ad-Free.
 - Multiple sources.
@@ -61,7 +61,7 @@ Dev
      npm run android
      ```
 Build apk/aab
-https://reactnative.dev/docs/signed-apk-android
+-link
 
 ---
 > [!IMPORTANT]
